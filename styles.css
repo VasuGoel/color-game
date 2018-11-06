@@ -1,0 +1,93 @@
+body {
+	background: #1d1338;
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Source Sans Pro', sans-serif;
+	padding: 10px;
+	color: white;
+	text-align: center;
+	background-color: #f13326;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	border: 2px solid black;
+	border-bottom: 1px solid black;
+
+}
+
+#stripe {
+	background-color: white;
+	border: 2px solid black;
+	padding-bottom: 37px;
+}
+
+#stripeContainer {
+	max-width: 90%;
+	width: 600px;
+	padding: 7px;
+}
+
+#newPlay {
+	float: left;
+	padding-left: 7px;
+	padding-right: 7px;
+}
+
+#hardButton {
+	float: right;
+	padding-left: 7px; 
+	padding-right: 7px;
+}
+
+#mediumButton {
+	float: right;
+	padding-left: 7px; 
+	padding-right: 7px;
+	margin-right: 10px;
+}
+
+#easyButton {
+	float: right;
+	padding-left: 7px; 
+	padding-right: 7px;
+	margin-right: 10px;
+}
+
+#messageContainer {
+	width: 100%;
+	padding: 5px;
+	margin-top: 30px;
+} 
+
+#messageDisplay {
+	font-family: ubuntu;
+	color: white;
+	font-size: 20px;
+}
+
+.row {
+	margin-left: 0px;
+    max-width: 100%;
+}
+
+.squares {
+	height: 8rem;
+	margin: 1.66%;
+	background: #1d1338;
+	border-radius: 15%;
+	transition: background 0.6s;
+	-webkit-transition: background 0.6s;
+	-moz-transition: background 0.6s;
+}
+
+#squareContainer {
+	max-width: 100%;
+	width: 750px;
+}
+
+
+.selectedOption {
+	background-color: #007bff;
+	color: white
+}
