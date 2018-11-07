@@ -27,9 +27,9 @@ Double-click the "index.html" file after unzipping the downloaded zip file.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [https://github.com/VasuGoel07/Color-Game/blob/master/LICENSE](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* https://patatap.com
+* Colt Steele's Bootcamp course
 
