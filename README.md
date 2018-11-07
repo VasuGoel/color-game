@@ -27,7 +27,7 @@ Double-click the "index.html" file after unzipping the downloaded zip file.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/VasuGoel07/Patatap-Clone/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/VasuGoel07/Color-Game/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
