@@ -23,11 +23,11 @@ Double-click the "index.html" file after unzipping the downloaded zip file.
 
 ## Authors
 
-* **Vasu Goel** (https://github.com/VasuGoel07)
+* **Vasu Goel** (https://github.com/VasuGoel)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/VasuGoel07/Color-Game/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/VasuGoel/Color-Game/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
